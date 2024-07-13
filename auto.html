@@ -3,44 +3,29 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Open Telegram App</title>
-    <script>
-        function openTelegramApp() {
-            // Replace with your Telegram deep link
-            const telegramDeepLink = "tg://proxy?server=49.13.145.61&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=";
-            window.location.href = telegramDeepLink;
-        }
-
-        // Automatically open the Telegram app when the page loads
-        window.onload = openTelegramApp;
-    </script>
-    <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-            font-family: Arial, sans-serif;
-            background-color: #f0f0f0;
-        }
-
-        .loader {
-            border: 16px solid #f3f3f3; /* Light grey */
-            border-top: 16px solid #3498db; /* Blue */
-            border-radius: 50%;
-            width: 120px;
-            height: 120px;
-            animation: spin 2s linear infinite;
-        }
-
-        @keyframes spin {
-            0% { transform: rotate(0deg); }
-            100% { transform: rotate(360deg); }
-        }
-    </style>
+    <title>Open Telegram App Automatically</title>
 </head>
 <body>
-    <div class="loader"></div>
+    <h1>Opening Telegram...</h1>
+    <p>If the Telegram app does not open automatically, <a href="tg://proxy?server=49.13.145.61&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=">click here</a>.</p>
+
+    <script>
+        // Function to open the Telegram app automatically
+        function openTelegram() {
+            var checkApp = document.createElement('iframe');
+            checkApp.style.display = 'none';
+            checkApp.src = "tg://proxy?server=49.13.145.61&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=";
+            document.body.appendChild(checkApp);
+
+            // Fallback to the web version of Telegram if the app does not open
+            setTimeout(function () {
+                window.location.href = 'tg://proxy?server=49.13.145.61&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=';
+                document.body.removeChild(checkApp);
+            }, 500);
+        }
+
+        // Automatically open Telegram app on page load
+        window.onload = openTelegram;
+    </script>
 </body>
 </html>
