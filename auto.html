@@ -3,20 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Open Telegram Link</title>
+    <title>Open Telegram App</title>
     <script>
-        function openTelegramLink() {
-            // Replace with your Telegram link
-            const telegramLink = "https://t.me/vpnwb";
-            window.location.href = telegramLink;
+        function openTelegramApp() {
+            // Replace with your Telegram deep link
+            const telegramDeepLink = "tg://proxy?server=49.13.145.61&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=";
+            window.location.href = telegramDeepLink;
         }
 
-        // Automatically open the Telegram link when the page loads
-        window.onload = openTelegramLink;
+        // Automatically open the Telegram app when the page loads
+        window.onload = openTelegramApp;
     </script>
 </head>
 <body>
     <h1>Redirecting to Telegram...</h1>
-    <p>If you are not redirected automatically, <a id="telegramLink" href="https://t.me/your_telegram_channel">click here</a>.</p>
+    <p>If you are not redirected automatically, <a id="telegramLink" href="tg://resolve?domain=your_telegram_username">click here</a>.</p>
 </body>
 </html>
