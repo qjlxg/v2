@@ -14,7 +14,7 @@ if __name__ == "__main__":
 
 #####
 
-def split_file(input_file, output_prefix, lines_per_file=20000):
+def split_file(input_file, output_prefix, lines_per_file=80000):
     with open(input_file, 'r') as f:
         lines = f.readlines()
 
@@ -31,7 +31,7 @@ def split_file(input_file, output_prefix, lines_per_file=20000):
 if __name__ == "__main__":
     input_file = "SsL.txt"  # Change this to your input file
     output_prefix = "split/ss"  # Prefix for output files
-    lines_per_file = 20000
+    lines_per_file = 80000
 
     split_file(input_file, output_prefix, lines_per_file)
 
@@ -39,7 +39,7 @@ if __name__ == "__main__":
 ###
 
 
-def split_file(input_file, output_prefix, lines_per_file=20000):
+def split_file(input_file, output_prefix, lines_per_file=80000):
     with open(input_file, 'r') as f:
         lines = f.readlines()
 
@@ -56,7 +56,7 @@ def split_file(input_file, output_prefix, lines_per_file=20000):
 if __name__ == "__main__":
     input_file = "TrojanL.txt"  # Change this to your input file
     output_prefix = "split/tro"  # Prefix for output files
-    lines_per_file = 20000
+    lines_per_file = 80000
 
     split_file(input_file, output_prefix, lines_per_file)
 
@@ -64,7 +64,7 @@ if __name__ == "__main__":
 ###
 
 
-def split_file(input_file, output_prefix, lines_per_file=20000):
+def split_file(input_file, output_prefix, lines_per_file=80000):
     with open(input_file, 'r') as f:
         lines = f.readlines()
 
