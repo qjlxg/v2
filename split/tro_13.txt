@@ -1,4 +1,3 @@
-trojan://a8c6bd90-e346-406b-beba-8f9d78f61df0@xijinping.19890604.day:10811?sni=cloudflare.node-ssl.cdn-alibaba.com
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.11:443/?type=ws&amp;host=jobscareerfortoday.com&amp;path=6b777a91&amp;security=tls&amp;sni=jobscareerfortoday.com
 trojan://telegram-id-privatevpns@18.158.26.174:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1
 trojan://a912c063-252d-4c4f-8944-1b3bd93bf9ba@tiananmen.19890604.day:10802?sni=cloudflare.node-ssl.cdn-alibaba.com

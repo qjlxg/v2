@@ -1,5 +1,4 @@
 trojan://cabcbaa-baca-caab-cdab-babaccccabba@127.0.0.1:1080?security=tls&amp;type=tcp
-
 trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hn.xiaohouzi.club:18459?security=tls&sni=hn.xiaohouzi.club
 trojan://idc117okt@103.226.139.201:443?security=tls
 trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hn.xiaohouzi.club:61003?security=tls&sni=$$hn.xiaohouzi.club
@@ -198,3 +197,4 @@ trojan://aef2ca33-b162-409f-8f16-4c736c338412@20.205.37.136:443?security=tls&all
 trojan://b3965d2d-3b82-45cc-927b-1336aca3f3fe@139.162.49.215:443
 trojan://bc58f81b-3f93-400c-aa88-893f5f52c29a@5m4h0k01.mcfront.xyz:31306?type=tcp&headerType=none
 trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@download1tw.windowsupdatea.com:443?security=tls&sni=glc-tw1.windowsupdatea.com&type=tcp&headerType=none
+trojan://181367b4-8254-4723-b665-92f317910536@9t1d5e01.mcfront.xyz:31841?type=tcp&headerType=none

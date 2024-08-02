@@ -1,4 +1,3 @@
-trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@london11.yukiss.eu.org:18818?security=tls
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.4:10824?security=tls
 trojan://de097d49-3016-42a9-9d35-cd0e8e17df0f@spkr.1234567890spcloud.com:443?security=tls&type=tcp&headerType=none
 trojan://8073375f-656d-47bd-aee4-1c9d8bf0ccbb@spuk.1234567890spcloud.com:443?security=tls&type=tcp&headerType=none
@@ -198,3 +197,4 @@ trojan://b17fa17d-13a0-4e8a-a398-8e549ea8b208@23.227.38.11:443?security=tls&sni=
 trojan://9aa6b5ad-c0fc-47f4-a837-f72179d7b662@168.119.64.242:443?security=tls&allowInsecure=1&type=tcp
 trojan://2dbe179f-47b2-46e9-bf58-bd7f68c491a3@a015.zhuan99.men:10015?security=tls&sni=zhu.99ton.men&type=tcp&headerType=none
 trojan://a2673b60-aca1-48c2-a4ad-abeb518e18f9@183.236.51.54:16023?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com&type=tcp
+trojan://telegram-id-privatevpns@35.177.137.88:22222?security=tls&sni=trj.rollingnext.co.uk

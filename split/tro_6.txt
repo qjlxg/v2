@@ -1,4 +1,3 @@
-trojan://telegram-id-privatevpns@18.134.230.47:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp
 trojan://9255fd49-67f4-4146-927e-7935c99f5fcd@3v4n01.a3b5wy.xyz:36874?allowInsecure=0&peer=vn01.abpilot.xyz&sni=vn01.abpilot.xyz
 trojan://d1478689-439c-4590-b7ce-36e786a02dc3@107.181.161.163:443?security=tls&sni=107.181.161.163
 trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzdx01.jcnode.top:62525?security=tls&sni=hk03.ckcloud.info
@@ -198,3 +197,4 @@ trojan://telegram-id-privatevpns@18.184.9.101:22222?security=tls&sni=trj.rolling
 trojan://ae7cc604-d970-4200-9a9b-eb45087b4fc1@43.198.12.229:28443?security=tls&sni=mzy.hruqoaw.cn
 trojan://-40f9-475c-bf46-e3883ee7da5c2b60d6a-a2f5-40ff-b7f9-f7658abcbf26@67.21.93.242:443?security=tls&sni=upay.com&allowInsecure=1&type=tcp
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.16.192.146:443?allowInsecure=0&sni=jobscareertoday.com&ws=1&wspath=6b777a91
+trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@london11.yukiss.eu.org:18818?security=tls

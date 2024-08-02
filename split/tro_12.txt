@@ -1,4 +1,3 @@
-trojan://af4dc66a-ec88-4057-9e46-777b584577f7@sa.mjt001.com:443?security=tls&sni=sa.mjt001.com&type=tcp&headerType=none
 trojan://3ddbffcb-bdbb-49c0-a7fe-5c3b0c58e9be@gsawssg2.aiopen.cfd:443?type=tcp&sni=18-140-66-207.nhost.00cdn.com&allowInsecure=1
 trojan://d07abd29-29f9-4c17-9743-b67152a30096@gcdddd0003.likeone.lol:47557?allowInsecure=1&peer=tw02.ckcloud.info&sni=tw02.ckcloud.info
 trojan://telegram-id-privatevpns@18.132.154.7:22222?type=tcp&amp;sni=trojan.burgerip.co.uk&amp;allowInsecure=1
@@ -198,3 +197,4 @@ trojan://cd27884b-c5af-34ec-b75f-8248077818fe@e.mg.us.cat77.cloud:2255?type=tcp&
 trojan://telegram-id-privatevpns@13.50.128.149:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk
 trojan://xxoo@us.blazeppn.info:443?security=tls&amp;type=tcp&amp;headerType=none
 trojan://9KogHwaY7hVD@eu-east-ruo.openssl3.com:443?security=tls&sni=eu-east-ruo.openssl3.com&type=tcp&headerType=none
+trojan://a8c6bd90-e346-406b-beba-8f9d78f61df0@xijinping.19890604.day:10811?sni=cloudflare.node-ssl.cdn-alibaba.com
